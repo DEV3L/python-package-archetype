@@ -1,4 +1,4 @@
-HELLO_WORLD_MESSAGE = 'Hello world! PyOhio Demo - 2!'
+HELLO_WORLD_MESSAGE = 'Hello world! PyOhio Demo - 3! CLEpy'
 
 
 def get_message():
