@@ -24,9 +24,9 @@ Example project layout intended to be used as a demo for PyOhio 2016 talk
 
 ## Credits
 
-https://softwaredev3loper.wordpress.com/2016/02/28/creating-my-first-pypi-package/
-https://packaging.python.org/en/latest/
-https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/
+* https://softwaredev3loper.wordpress.com/2016/02/28/creating-my-first-pypi-package/
+* https://packaging.python.org/en/latest/
+* https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/
 
 ## License
 
