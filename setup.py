@@ -11,7 +11,7 @@ setup(
     download_url='https://github.com/DEV3L/python-package-archetype/tarball/0.4',
     keywords=['dev3l', 'archetype', 'pypi', 'package'],  # arbitrary keywords
     install_requires=[
-        'pytest==2.9.2'
+        'pytest==9.0.3'
     ],
     classifiers=[
         'Environment :: Console',
